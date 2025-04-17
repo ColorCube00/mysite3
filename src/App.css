@@ -1,0 +1,23 @@
+.App{
+  text-align: center;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.app-header{
+  background-color: #282c34;
+  color: white;
+}
+
+main{
+  flex: 1;
+  overflow-y: auto;
+  max-height: calc(100vh - 40px 40px);
+}
+
+.app-footer{
+  background-color: #282c34;
+  color: white;
+  height: 115px;
+}
