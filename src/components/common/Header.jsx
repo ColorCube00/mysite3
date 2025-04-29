@@ -8,8 +8,8 @@ const Header = () => {
             <nav className='nav-menu'>
                 <ul>
                     <li><Link to='/'>Home</Link></li>
-                    {/* <li><Link to='/about-me'>AboutMe</Link></li>
-                    <li><Link to='/gallery'>Gallery</Link></li>
+                    <li><Link to='/about-me'>AboutMe</Link></li>
+                    {/* <li><Link to='/gallery'>Gallery</Link></li>
                     <li><Link to='/blog'>Blog</Link></li>
                     <li><Link to='/my-story'>MyStory</Link></li> */}
                 </ul>
